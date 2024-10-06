@@ -1,0 +1,28 @@
+Title: Customer Churn Analysis in Banking
+Industry Overview
+The banking industry faces intense competition, making customer retention a critical factor for success. Understanding customer behavior and identifying reasons behind account exits is essential for developing effective retention strategies. This analysis focuses on customer churn, examining the relationship between customer attributes and churn status.
+
+Key Concepts
+Customer Churn: The rate at which customers discontinue their relationship with the bank.
+Retention Strategies: Methods employed by banks to keep customers engaged and reduce churn rates.
+Customer Satisfaction: The degree to which bank services meet or exceed customer expectations.
+
+
+Dataset Description
+Dataset Name: Churn_Modelling.csv
+Source: The dataset used for this analysis comes from a publicly available churn modeling dataset.
+
+Features:
+Age: Age of the customer.
+Exited: Indicates whether the customer has churned (1) or not (0).
+Additional features may include demographics, account information, and transaction history.
+
+
+Data Cleaning Steps
+Handle Missing Values: Removed rows with missing data to ensure dataset integrity.
+Remove Duplicates: Eliminated duplicate entries to maintain unique customer records.
+Save Cleaned Data: Exported the cleaned dataset for further analysis and modeling.
+Data Visualization
+
+
+A boxplot was generated to visualize the age distribution of customers based on their churn status. This plot helps in understanding how age affects the likelihood of customer churn.An heatmap was also cretaed to identify the correlation coedfficient.
