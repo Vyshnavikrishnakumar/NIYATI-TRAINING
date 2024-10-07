@@ -38,10 +38,6 @@ The primary objective is to identify and remove customers who have exited their 
 - Heatmap for correlation analysis of customer attributes.
 - Boxplot to compare age distribution by churn status.
 
-## Model Development
-- A **Logistic Regression** model was built to predict customer churn.
-- The dataset was split into training and test sets to evaluate the model’s performance.
-- Key evaluation metrics include confusion matrix and classification report.
 
 ## How to Run
 1. Install the required dependencies:
