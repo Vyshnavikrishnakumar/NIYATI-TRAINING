@@ -56,6 +56,3 @@ The primary objective is to identify and remove customers who have exited their 
 ## Conclusion
 This analysis provides insights into customer churn behavior, helping the bank to take proactive measures to retain customers and improve the overall customer relationship experience.
 
----
-
-Would you like to add more details or change any sections?
