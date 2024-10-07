@@ -4,14 +4,14 @@ Objective:
 - Identify and remove customers who have exited their bank accounts from the dataset to maintain an accurate and up-to-date customer database.
 
 Business Goals:
-- **Customer Retention**: Identify at-risk customers for targeted interventions.
-- **Reduce Churn Rate**: Implement retention strategies based on data insights.
-- **Customer Relationship Management**: Maintain accurate customer data to improve relationships and personalize services.
+- Customer Retention: Identify at-risk customers for targeted interventions.
+- Reduce Churn Rate: Implement retention strategies based on data insights.
+- Customer Relationship Management: Maintain accurate customer data to improve relationships and personalize services.
 
 Key Metrics:
-- **Number of Active Customers**
-- **Churn Rate**: Percentage of customers who have exited.
-- **Accuracy of Customer Status Predictions**
+- Number of Active Customers
+- Churn Rate: Percentage of customers who have exited.
+- Accuracy of Customer Status Predictions
 
  Steps Involved:
 
