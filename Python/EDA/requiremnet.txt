@@ -31,8 +31,5 @@ Key Metrics:
    - Use heatmap for correlation analysis.
    - Use boxplot to compare age distribution by churn status.
 
-4. Modeling:
-   - Split data into training and test sets.
-   - Train a Logistic Regression model.
-   - Evaluate the model using classification reports and confusion matrices.
+
 
