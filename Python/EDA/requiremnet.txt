@@ -1,0 +1,38 @@
+### Requirements List
+
+#### Objective:
+- Identify and remove customers who have exited their bank accounts from the dataset to maintain an accurate and up-to-date customer database.
+
+#### Business Goals:
+- **Customer Retention**: Identify at-risk customers for targeted interventions.
+- **Reduce Churn Rate**: Implement retention strategies based on data insights.
+- **Customer Relationship Management**: Maintain accurate customer data to improve relationships and personalize services.
+
+#### Key Metrics:
+- **Number of Active Customers**
+- **Churn Rate**: Percentage of customers who have exited.
+- **Accuracy of Customer Status Predictions**
+
+#### Steps Involved:
+
+1. **Data Cleaning**:
+   - Handle missing values using `dropna()`.
+   - Remove duplicates using `drop_duplicates()`.
+   - Save the cleaned dataset.
+
+2. **Data Analysis**:
+   - Import necessary libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn.
+   - Load the cleaned dataset.
+   - Generate descriptive statistics.
+   - Visualize churn distribution and correlations.
+   - Export correlation matrix to a CSV.
+
+3. **Data Visualization**:
+   - Use heatmap for correlation analysis.
+   - Use boxplot to compare age distribution by churn status.
+
+4. **Modeling**:
+   - Split data into training and test sets.
+   - Train a Logistic Regression model.
+   - Evaluate the model using classification reports and confusion matrices.
+
